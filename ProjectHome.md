@@ -1,0 +1,1 @@
+StarStream is a PeerSim-based module implemented for simulating a new mesh-based protocol for streaming audio-video content in a P2P network.
